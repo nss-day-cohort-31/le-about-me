@@ -1,0 +1,12 @@
+h1 {
+  border: 1px dashed rosybrown;
+}
+
+.birthdate {
+  font-style: italic;
+}
+
+.birthplace {
+  background-color: #FF7F50;
+}
+  
